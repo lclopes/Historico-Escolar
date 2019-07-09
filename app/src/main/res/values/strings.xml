@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Historico</string>
+    <string name="main_text">Olá!</string>
+    <string name="button_name">Acessar Histórico</string>
+</resources>
